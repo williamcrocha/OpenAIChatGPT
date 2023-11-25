@@ -1,0 +1,7 @@
+logging:
+    level:
+        br.com.williamrocha: debug
+openai:
+    key: <your key>
+    model: gpt-3.5-turbo
+    url: https://api.openai.com/v1/chat/completions
